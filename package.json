@@ -1,0 +1,39 @@
+{
+  "name": "blocklink",
+  "version": "1.0.0",
+  "description": "Web3 Social Matching & Reward Protocol - Trustless peer-to-peer reward distribution",
+  "author": "Your Name",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js",
+    "test": "hardhat test",
+    "test:coverage": "hardhat coverage",
+    "hardhat": "hardhat"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "web3": "^4.0.0",
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@types/node": "^18.0.0",
+    "@types/react": "^18.0.0",
+    "chai": "^4.3.0",
+    "dotenv": "^16.0.0",
+    "hardhat": "^2.13.0",
+    "hardhat-gas-reporter": "^1.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
