@@ -1,4 +1,4 @@
-# BlockLink-Web3-Social-Matching-Reward-Protocol
+
 # BlockLink - Web3 Social Matching & Reward Protocol
 
 A decentralized social matching protocol that enables matchmakers to earn on-chain rewards for successfully connecting peers.
